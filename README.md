@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m currently working on a workout app called XPStrength<br>I’m currently learning React/Javascript<br>Ask me about anything<br>Fun fact: I love anything AI-related
 
 
